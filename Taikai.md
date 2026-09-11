@@ -8,6 +8,6 @@
 
 ## 公開メモ
 
+- 公開URL: https://kawaguchiko-weatherscape.lolipop-now.app
 - 種別: React / Vite / Three.jsの静的Webアプリ
 - 実際の天気予報ではなく、天候表現を観察する作品です
-
